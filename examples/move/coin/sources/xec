@@ -1,0 +1,4 @@
+xec_project/
+├── Move.toml
+└── sources/
+    └── xec.move
